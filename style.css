@@ -31,10 +31,13 @@ header{
     position: relative;
     right: 5%;
 }
+.container{
+    padding: 1.5rem 2rem;
+}
 
 #Building{
     overflow-x: hidden;
-    padding: 8rem 0;
+    padding: 1rem 0;
     background-color: #fff;
 }
 .row{
@@ -52,11 +55,83 @@ i{
     font-size: 25px;
     border-radius: 5px;
 }
+
 #Featured{
     position: relative;
     left: 35%;
     padding: 20px;
 }
+
+#Working{
+    background-color: #F8F9FA;
+    padding: 5rem 0;
+    
+}
+#Working .working-text h3{
+    
+    display: block;
+    text-align: center;
+    font-style: italic !important;
+    margin-left: 9rem;
+    font-size: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+}
+#Blog .card-group .card{
+    border-radius: 9px;
+    margin: 5px;
+    padding-left: 17px;
+}
+#Blog #blog-text{
+    font-size: 2rem;
+}  
+#Blog #blog-text{    
+    position: relative;
+    left: 50%;
+}
+#Signup .email{
+    width: 100%;
+}
+
+#Newsletter #news-letter{
+    border-radius: 7px;
+}
+#Newsletter #news-text h2{
+    position: relative;
+    right: 20%;
+    font-size: 26px;
+    font-weight: bold;
+    color: #fff;
+
+}
+#Newsletter #news-text p{
+    position: relative;
+    right: 24%;
+    font-size: 16px;
+    color: #ffffff80;
+}
+footer{
+    
+}
+footer #text-footer a{
+    color: white;
+    position: relative;
+    right: 170%;
+
+}
+#text-bottom h2{
+    position: relative;
+    bottom: 415%;
+    font-size: 2rem;
+    font-weight: bold;
+    
+}
+
+
+
+
+
+
+
 
 
 
