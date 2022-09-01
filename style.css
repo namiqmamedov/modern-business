@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    margin-left: 5.5rem;
+}
+.navbar-brand a{
+    
+}    
+#text a{
+    color: rgba(255, 255, 255, 0.55);
+    position: relative;
+    right: 20%;
+    margin: -7px;
+    
+}
+#Bootstrap{
+    padding: 10rem 0;
+    background-color: #212529;
+}
+header{
+    background-color: #212529;
+}
+#center-img img{
+    position: relative;
+    bottom: 10%;
+    border-radius: 7px;
+}
+#text-center{
+    position: relative;
+    right: 5%;
+}
+
+#Building{
+    overflow-x: hidden;
+    padding: 8rem 0;
+    background-color: #fff;
+}
+.row{
+    margin: 20px;
+    
+}
+#text-img{
+    margin-right: 2rem;
+}
+i{
+    margin-bottom: 8px;
+    background-color: #297FFD;
+    color: white;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 5px;
+}
+#Featured{
+    position: relative;
+    left: 35%;
+    padding: 20px;
+}
+
+
+
